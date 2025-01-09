@@ -2,7 +2,6 @@
 
 ### About Me
 - 🎓 Pursuing a Bachelor of Computer Science (Artificial Intelligence Specialization) along with an Economics Minor from the [University of Waterloo](https://uwaterloo.ca/)
-- 💼 Working on experimental technologies as a Research Engineer at [Huawei](https://www.huawei.com/ca/)
 - 👀 Interested in chess, photography, and rock climbing
 - 🌱 Currently learning back-end web development and generative artificial intelligence
 
